@@ -1,0 +1,18 @@
+.button {
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+}
+.container {
+    width: 30%;
+    height: 2rem;
+    padding: 0 1rem;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    outline: 0;
+    border: 0;
+}
+
+.container:hover {
+    border: 1px solid blue;
+}
