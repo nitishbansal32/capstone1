@@ -1,2 +1,0 @@
-# rentingVehicles
-# small-room-website
